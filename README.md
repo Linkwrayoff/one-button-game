@@ -1,2 +1,2 @@
 ﻿# one-button-game
-git push -u origin main
+https://linkwrayoff.github.io/one-button-game/
